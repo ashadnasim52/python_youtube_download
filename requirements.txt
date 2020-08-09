@@ -1,0 +1,10 @@
+altgraph==0.17
+autopep8==1.5.4
+gazpacho==0.9.4
+pycodestyle==2.6.0
+PyInstaller==3.6
+pytube==9.6.0
+pytube3==9.6.4
+quote==1.0
+toml==0.10.1
+typing-extensions==3.7.4.2
